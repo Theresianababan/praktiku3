@@ -56,8 +56,11 @@ Method tampilkanInfo(): Digunakan untuk menampilkan informasi lengkap mahasiswa.
 # penjelasan
 
 Class Pegawai adalah class induk yang memiliki atribut nama dan gajiPokok.
+
 Class Programmer dan Class Manager merupakan subclass dari Pegawai yang memiliki tambahan atribut tunjangan dan bonus.
+
 Masing-masing class memiliki method setter dan getter untuk mengatur dan mengambil nilai atribut.
+
 Method cetakInfo() digunakan untuk mencetak informasi dari object.
 
 
