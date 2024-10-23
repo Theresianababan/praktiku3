@@ -18,6 +18,17 @@
 
 ![3](https://github.com/user-attachments/assets/1742e49d-cdd5-4cf4-b936-5438569d55d3)
 
+# Penjelasan:
+Attributes: Terdapat empat atribut yang bersifat private, yaitu nim, nama, jurusan, dan ipk.
+Constructor: Constructor ini digunakan untuk menginisialisasi objek mahasiswa dengan atribut yang diberikan.
+Getter dan Setter:
+getNim(), getNama(), getJurusan(), dan getIpk() digunakan untuk mengambil nilai dari atribut.
+setNim(), setNama(), setJurusan(), dan setIpk() digunakan untuk mengubah nilai atribut.
+Validasi IPK: Pada setter setIpk(), terdapat validasi bahwa nilai IPK harus berada dalam rentang 0.0 hingga 4.0.
+Method tampilkanInfo(): Digunakan untuk menampilkan informasi lengkap mahasiswa.
+
+
+
 
 
 
