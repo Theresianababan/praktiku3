@@ -1,4 +1,4 @@
-# praktiku3
+# praktikum3
 # Latihan
 
 • Lengkapi class Mahasiswa dengan setter dan getter.
